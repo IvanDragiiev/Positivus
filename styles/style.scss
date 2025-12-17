@@ -3,3 +3,8 @@
 @use "variables.scss";
 @use "utils.scss";
 @use "globals.scss";
+@use "./blocks/button";
+@use "./blocks/burger-button";
+@use "./blocks/header";
+@use "./blocks/cross-button";
+@use "./blocks/mobile-overlay";
