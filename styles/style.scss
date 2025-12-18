@@ -4,7 +4,14 @@
 @use "utils.scss";
 @use "globals.scss";
 @use "./blocks/button";
+@use "./blocks/grid";
 @use "./blocks/burger-button";
 @use "./blocks/header";
 @use "./blocks/cross-button";
 @use "./blocks/mobile-overlay";
+@use "./blocks/section";
+@use "./blocks/hero";
+@use "./blocks/puddle";
+@use "./blocks/services";
+@use "./blocks/services-card";
+@use "./blocks/banner";
